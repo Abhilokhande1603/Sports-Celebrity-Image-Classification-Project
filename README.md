@@ -1,5 +1,5 @@
 <h1 align="center">
-           Sports Celebrity Image Classification Project 💬 📝 ✍️
+           Image Classification Project 💬 📝 ✍️
 </h1>
 
 ![Artificial-Intelligence-and-Machine-Learning](https://github.com/Abhilokhande1603/Sports-Celebrity-Image-Classification-Project/assets/94048021/a9988fc9-14e3-4855-9d86-d890f279934b)
